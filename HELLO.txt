@@ -1,2 +1,6 @@
 print("Jak sie masz")
 
+funkcja dodajaca nowa mape
+
+funkcja dziala poprawnie
+
